@@ -1,0 +1,129 @@
+.logo1{
+    float:left;
+    vertical-align:bottom;
+    padding: 2px;
+}
+.logo2{
+    float:right;
+    padding: 4px;
+}
+.clearfix:after{
+    content: "";
+    display: table;
+    clear:both
+}
+nav{
+    text-align: center;
+    padding: 7px;
+    border: 4px;
+    margin: 2px;
+    background-color: #220062;
+    overflow: hidden
+
+}
+
+nav a{
+    font-size: large;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+
+}
+
+h1 {
+    color: white;
+    font-size: 63px;
+    padding: 6px;
+    border-radius: 5px;
+    margin: 3px;
+font-family: 'Monotype Corsiva','Franklin Gothic Medium', 'Arial Narrow', 'Arial', 'sans-serif';
+}
+h2 {
+    font-size: 40px ;
+    color:white;
+    padding: 5px;
+    border: 2px;
+    margin: 3px;
+    font-family: 'Lucida Calligraphy','Franklin Gothic Medium', 'Arial Narrow',' Arial', sans-serif;
+}
+h4 {
+    padding: 5px;
+    border: 2px;
+    margin: 1px;
+    font-size: 35px;
+    font-family:'Lucida Handwriting' 'Franklin Gothic Medium', 'Arial Narrow',' Arial', sans-serif;
+    color: white;
+}
+
+.extensions:hover {
+
+    color: brown;
+}
+
+.event2021{
+    padding: 10px;
+    border: 5px;
+    background-image:url("bg_block1.jpg");
+    background-repeat: repeat;
+    background-position: center;
+    border-width: thick;
+    border-style: double;
+    border-color: white;
+}
+
+ol{
+    color: white;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    padding: 2px;
+    margin: 1px;
+
+}
+
+.register {
+    font-size:25px;
+    align-content: center;
+    padding: 10px;
+    border: 3px;
+    font-weight: 600;
+    color: rgb(0, 87, 201);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    border-radius: 1px;
+    border-width: thick;
+    border-style: double;
+    border-color: #000000;
+}
+
+.calendar{
+    background-image: url("bg_block2.jpg");
+    border-width: thick;
+    border-style: double;
+    border-color: aliceblue;
+    width: 50%;
+    float: left;
+}
+
+iframe{
+    width: 49%;
+    float: left;
+}
+.about{
+    padding: 10px;
+    border: 5px;
+    background-image:url("bg_block3.jpg");
+    background-repeat: repeat;
+    background-position: center;
+    border-width: thick;
+    border-style: double;
+    border-color: white;
+}
+
+h5{
+    font-size: 20px;
+    color: white;
+    
+}
